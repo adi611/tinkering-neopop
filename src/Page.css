@@ -1,0 +1,10 @@
+nav {
+  display: flex;
+  flex-direction: row;
+}
+#header {
+  margin-right: auto;
+}
+#login {
+  margin-left: auto;
+}
